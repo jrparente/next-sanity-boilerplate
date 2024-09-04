@@ -129,15 +129,15 @@ Project Link: [https://github.com/jrparente/next-sanity-boilerplate](https://git
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/jrparente/nextjs-instagram.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jrparente/next-sanity-boilerplate.svg?style=for-the-badge
 [contributors-url]: https://github.com/jrparente/next-sanity-boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jrparente/nextjs-instagram.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jrparente/next-sanity-boilerplate.svg?style=for-the-badge
 [forks-url]: https://github.com/jrparente/next-sanity-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/jrparente/nextjs-instagram.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jrparente/next-sanity-boilerplate.svg?style=for-the-badge
 [stars-url]: https://github.com/jrparente/next-sanity-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jrparente/nextjs-instagram.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jrparente/next-sanity-boilerplate.svg?style=for-the-badge
 [issues-url]: https://github.com/jrparente/next-sanity-boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/jrparente/nextjs-instagram.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jrparente/next-sanity-boilerplate.svg?style=for-the-badge
 [license-url]: https://github.com/jrparente/next-sanity-boilerplate/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joanaparente
