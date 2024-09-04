@@ -1,5 +1,3 @@
-import { group } from "console";
-
 const homepage = {
   name: "homepage",
   type: "document",
